@@ -7,7 +7,7 @@ puts markdown.to_html
 - 👀 I’m interested in Ndtworks/Engineering
 - 🌱 I’m currently learning n/a
 - 💞️ I’m looking to collaborate on ... n/a
-- 📫 How to reach me ... 206-460-9523|206-407-7700|jgriffithsr@gmail.com
+- 📫 How to reach me ... |jgriffithsr@gmail.com
 ```
 <!---
 Jgriffiths2/Jgriffiths2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
